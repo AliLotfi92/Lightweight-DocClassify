@@ -1,7 +1,7 @@
 ### README
 
 #### Optimized Document Classification with Stacking Models
-LLMs impressive performance comes with high computational costs and reliance on GPUs, making them costly to deploy—especially for document classification tasks. In this repo, I wanted to demonstrate that classical machine learning models, especially with efficient preprocessing, can achieve comparable performance to LLMs in document classification while being significantly faster and yet much more cost effective.
+LLMs impressive performance come with high computational costs and reliance on GPUs, making them costly to deploy—especially for document classification tasks. In this repo, I wanted to demonstrate that classical machine learning models, especially with efficient preprocessing, can achieve comparable performance to LLMs in document classification while being significantly faster and yet much more cost effective.
 
 ### Key Features
 
