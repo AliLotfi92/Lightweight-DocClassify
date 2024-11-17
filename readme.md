@@ -14,9 +14,9 @@ LLMs impressive performance come with high computational costs and reliance on G
 
 Note: This is just a demo on a public dataset. You can leverage the same approach on your own dataset!
 
-| Precision | Recall | F1-Score |
-|-----------|--------|----------|
-| 0.99      | 1.00   | 0.99     |
+| Precision | F1-Score |
+|-----------|----------|
+| 0.99      | 0.99     |
 
 
 
